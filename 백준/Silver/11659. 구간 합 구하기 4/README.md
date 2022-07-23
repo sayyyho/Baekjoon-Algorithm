@@ -22,3 +22,6 @@
 
  <p>총 M개의 줄에 입력으로 주어진 i번째 수부터 j번째 수까지 합을 출력한다.</p>
 
+### 참고
+ [sys.stdin.readline](https://green-leaves-tree.tistory.com/12 "참고블로그")
+ 
